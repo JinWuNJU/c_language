@@ -1,0 +1,47 @@
+
+4c:S959"Remove this #undef directive.(ÙİÛ†ÿÿÿÿÿ
+Cc:S1659"0Define each identifier in a dedicated statement.(ˆ’Ä
+Cc:S1659"0Define each identifier in a dedicated statement.(ÿâÕ•
+Hc:S1659"0Define each identifier in a dedicated statement.(“÷ÆØüÿÿÿÿ
+Hc:S1659 "0Define each identifier in a dedicated statement.(£ñµèúÿÿÿÿ
+Hc:S1659""0Define each identifier in a dedicated statement.(¤‹ÿ•ıÿÿÿÿ
+Zcpp:S959"ARemove this #undef directive that undefines a non-existing macro.(ÙİÛ†ÿÿÿÿÿ
+E	cpp:S1659"0Define each identifier in a dedicated statement.(ˆ’Ä
+E	cpp:S1659"0Define each identifier in a dedicated statement.(ÿâÕ•
+J	cpp:S1659"0Define each identifier in a dedicated statement.(“÷ÆØüÿÿÿÿ
+J	cpp:S1659 "0Define each identifier in a dedicated statement.(£ñµèúÿÿÿÿ
+J	cpp:S1659""0Define each identifier in a dedicated statement.(¤‹ÿ•ıÿÿÿÿ
+6	cpp:S5421"!Global variables should be const.(ˆ’Ä
+6	cpp:S5421"!Global variables should be const.(ˆ’Ä
+6	cpp:S5421"!Global variables should be const.(ˆ’Ä
+6	cpp:S5421"!Global variables should be const.(ÿâÕ•
+6	cpp:S5421"!Global variables should be const.(ÿâÕ•
+6	cpp:S5421"!Global variables should be const.(ÿâÕ•
+6	cpp:S5421"!Global variables should be const.(ÿâÕ•
+L	cpp:S5945"2Use "std::string" instead of a C-style char array.(“÷ÆØüÿÿÿÿ
+;	cpp:S5421"!Global variables should be const.(“÷ÆØüÿÿÿÿ
+L	cpp:S5945"2Use "std::string" instead of a C-style char array.(“÷ÆØüÿÿÿÿ
+;	cpp:S5421"!Global variables should be const.(“÷ÆØüÿÿÿÿ
+;	cpp:S5421 "!Global variables should be const.(£ñµèúÿÿÿÿ
+;	cpp:S5421 "!Global variables should be const.(£ñµèúÿÿÿÿ
+;	cpp:S5421 "!Global variables should be const.(£ñµèúÿÿÿÿ
+;	cpp:S5421 "!Global variables should be const.(£ñµèúÿÿÿÿ
+;	cpp:S5421""!Global variables should be const.(¤‹ÿ•ıÿÿÿÿ
+;	cpp:S5421""!Global variables should be const.(¤‹ÿ•ıÿÿÿÿ
+;	cpp:S5421""!Global variables should be const.(¤‹ÿ•ıÿÿÿÿ
+;	cpp:S5421""!Global variables should be const.(¤‹ÿ•ıÿÿÿÿ
+G	cpp:S5945#"2Use "std::string" instead of a C-style char array.(¿Òş
+6	cpp:S5421#"!Global variables should be const.(¿Òş
+W	cpp:S5945%"=Use "std::array" or "std::vector" instead of a C-style array.(óÀïÙüÿÿÿÿ
+;	cpp:S5421%"!Global variables should be const.(óÀïÙüÿÿÿÿ
+R	cpp:S59453"=Use "std::array" or "std::vector" instead of a C-style array.(ç¥¨œ
+6	cpp:S54213"!Global variables should be const.(ç¥¨œ
+H	cpp:S5421:".Global Pointer should be const at every level.(Ç´ùóÿÿÿÿÿ
+C	cpp:S5421;".Global Pointer should be const at every level.(±•ğ¬
+C	cpp:S5421<".Global Pointer should be const at every level.(™—Ç¯
+C	cpp:S5421=".Global Pointer should be const at every level.(ŸŞÎØ
+;	cpp:S5421@"!Global variables should be const.(¹şÕŞÿÿÿÿÿ
+H	cpp:S5421A".Global Pointer should be const at every level.(â°ã‹ûÿÿÿÿ
+;	cpp:S5421B"!Global variables should be const.(®çµ‰üÿÿÿÿ
+6	cpp:S5421C"!Global variables should be const.(üÁ›ö
+6	cpp:S5421D"!Global variables should be const.(½ğôÁ

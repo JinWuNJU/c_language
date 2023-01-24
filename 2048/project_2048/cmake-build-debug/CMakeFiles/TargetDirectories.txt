@@ -1,0 +1,3 @@
+D:/Coding/coding(1)/c_language/2048/project_2048/cmake-build-debug/CMakeFiles/2048.dir
+D:/Coding/coding(1)/c_language/2048/project_2048/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/coding(1)/c_language/2048/project_2048/cmake-build-debug/CMakeFiles/rebuild_cache.dir
